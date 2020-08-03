@@ -2,8 +2,8 @@
 
 ## About me
 - 🔭 I’m currently working on [Where's my money?](https://github.com/wmm).
-- 🌱 I’m currently learning Flutter.
-- 🎓 Finished Vegova Ljubljana.
+- 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter).
+- 🎓 Finished [Vegova Ljubljana](https://www.vegova.si/).
 - 🎓 Studying Computer Science and Information Technologies at [FERI UM](https://feri.um.si)
-- 💼 Developer at Metrel d.d.
+- 💼 Developer at [Metrel d.d.](https://www.metrel.si/)
 - ⚡ Fun fact: This sentance is false!
