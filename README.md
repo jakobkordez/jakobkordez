@@ -6,4 +6,4 @@
 - 🎓 Finished [Vegova Ljubljana](https://www.vegova.si/).
 - 🎓 Studying Computer Science and Information Technologies at [FERI UM](https://feri.um.si)
 - 💼 Developer at [Metrel d.d.](https://www.metrel.si/)
-- ⚡ Fun fact: This sentance is false!
+- ⚡ Fun fact: This sentence is false!
