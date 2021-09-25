@@ -6,9 +6,9 @@
 </p>
 
 ## About me
-- 🔭 I’m currently working with Flutter on embedded systems.
 - 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter).
-- 🎓 Finished [Vegova Ljubljana](https://www.vegova.si/).
-- 🎓 Studying Computer Science and Information Technologies at [FERI UM](https://feri.um.si)
+- 🎓 Graduated the *technical gymnasium* program at [Vegova Ljubljana](https://www.vegova.si/)
+- 🎓 Graduated the undergraduate *Computer Science and Information Technologies* program at [FERI UM](https://feri.um.si)
+- 🎓 Studying the postgraduate *Computer Science and Information Technologies* program at [FERI UM](https://feri.um.si)
 - 💼 Developer at [Metrel d.d.](https://www.metrel.si/)
 - ⚡ Fun fact: This sentence is false!
