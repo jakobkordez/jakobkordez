@@ -13,6 +13,7 @@
   - Licensed &rarr; January 2022
   - Class &rarr; A with CW exam
   - Check [my QRZ.com page](https://www.qrz.com/db/s52kj) for more info
+- :golf: [Code Golf](https://code.golf/golfers/jakobkordez)
 - :rabbit2: Competitive programming
 
 ## Most proficient with
