@@ -1,5 +1,5 @@
 ## About me
-- :potted_plant: I’m currently mastering [Flutter](https://flutter.dev/).
+- :potted_plant: I’m currently learning [React](https://reactjs.org/) / [Next.js](https://nextjs.org/).
 - :mortar_board: Graduated the *technical gymnasium* program at [Vegova Ljubljana](https://www.vegova.si/)
 - :mortar_board: Graduated the undergraduate *Computer Science and Information Technologies* program at [FERI UM](https://feri.um.si)
 - :mortar_board: Studying the postgraduate *Computer Science and Information Technologies* program at [FERI UM](https://feri.um.si)
