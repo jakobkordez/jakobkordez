@@ -18,10 +18,10 @@
 
 ## Most proficient with
 
-![Most proficient](https://skillicons.dev/icons?i=next,flutter,nest,python,svelte,tailwind,dotnet,cpp)
+[![Most proficient](https://skillicons.dev/icons?i=next,flutter,nest,python,svelte,tailwind,dotnet,cpp)](https://skillicons.dev)
 
-![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongo)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongo)](https://skillicons.dev)
 
 ## Tools
 
-![Tools](https://skillicons.dev/icons?i=git,docker,vscode,markdown,latex,figma)
+[![Tools](https://skillicons.dev/icons?i=git,docker,vscode,markdown,latex,figma)](https://skillicons.dev)
